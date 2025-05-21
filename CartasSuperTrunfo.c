@@ -2,6 +2,7 @@
 
 int main () {
     int cartas
+    int cartas 2
     
 }
 // Desafio Super Trunfo - Países
